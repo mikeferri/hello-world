@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+My little repository.
+Github is magic!
